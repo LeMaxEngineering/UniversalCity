@@ -3,6 +3,7 @@
 A single-file, zero-dependency browser game built with vanilla HTML5 Canvas and JavaScript. Protect the city dome from incoming missile waves by firing laser turrets and managing your heat gauge. When things get overwhelming, unleash the Nova Blast — but watch out for Armored Missiles that can only be taken down by direct laser fire.
 
 ## Gameplay
+<img width="1266" height="878" alt="sshot02" src="https://github.com/user-attachments/assets/6722f92c-7385-430f-9f8a-e01a57df6083" />
 
 Two laser turrets sit on the rim of a city bowl, projecting a red energy shield across the valley. Missiles rain from above and must be destroyed before they breach the shield. Every impact damages the grid — let it fall to zero and the city is lost.
 
@@ -12,9 +13,6 @@ Two laser turrets sit on the rim of a city bowl, projecting a red energy shield 
 - **F key** — toggle fullscreen.
 
 ## Features
-
-<img width="1270" height="916" alt="sshot02" src="https://github.com/user-attachments/assets/e882c504-22b5-4c23-a04d-5495824324fd" />
-
 
 - Smooth 60fps HTML5 Canvas rendering with screen shake, particle explosions, and glow effects
 - Procedurally generated sci-fi city skyline with animated window lights
