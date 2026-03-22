@@ -13,6 +13,9 @@ Two laser turrets sit on the rim of a city bowl, projecting a red energy shield 
 
 ## Features
 
+<img width="1270" height="916" alt="sshot02" src="https://github.com/user-attachments/assets/e882c504-22b5-4c23-a04d-5495824324fd" />
+
+
 - Smooth 60fps HTML5 Canvas rendering with screen shake, particle explosions, and glow effects
 - Procedurally generated sci-fi city skyline with animated window lights
 - Two missile types with distinct behaviors and visuals
