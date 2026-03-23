@@ -34,6 +34,9 @@ git clone https://github.com/yourname/universal-city.git
 open universal-city/UniversalCity.html
 ```
 
+<img width="956" height="556" alt="image" src="https://github.com/user-attachments/assets/8487b7f6-1331-4fce-8cd6-a739088187c8" />
+
+
 ## Tech
 
 Pure vanilla JavaScript and HTML5 Canvas API. No frameworks, no libraries, no bundler.
