@@ -1,6 +1,5 @@
 # 🛸 Universal City — Planetary Defense
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07a6312b-ef71-42c3-9b0a-3f4102b0be52" />
+<img width="956" height="554" alt="image" src="https://github.com/user-attachments/assets/71156e09-6423-4fbc-8a8b-bcb5a95f3c7a" />
 
 
 A single-file, zero-dependency browser game built with vanilla HTML5 Canvas and JavaScript. Protect the city dome from incoming missile waves by firing laser turrets and managing your heat gauge. When things get overwhelming, unleash the Nova Blast — but watch out for Armored Missiles that can only be taken down by direct laser fire.
